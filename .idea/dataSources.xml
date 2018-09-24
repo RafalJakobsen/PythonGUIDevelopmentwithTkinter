@@ -19,5 +19,14 @@
         <property name="enable_load_extension" value="true" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="python_logo.gif [2]" uuid="ae44efe5-9e0b-444d-b890-26059b91a45e">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\rafal\Desktop\InLearning\Ex_Files_Python_Tkinter\Exercise Files\Ch05\python_logo.gif</jdbc-url>
+      <driver-properties>
+        <property name="enable_load_extension" value="true" />
+      </driver-properties>
+    </data-source>
   </component>
 </project>
