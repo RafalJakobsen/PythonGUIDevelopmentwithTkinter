@@ -7,3 +7,4 @@ filename = filedialog.askopenfile()
 print(filename.name)
 from tkinter import colorchooser
 colorchooser.askcolor(initialcolor = "#FFFFF")
+
